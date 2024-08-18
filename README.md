@@ -12,3 +12,13 @@ https://www.youtube.com/watch?v=W0XnU1uvIwo&t=24s
 
 - William Cook: "Information, Computation, Optimization..."
 https://www.youtube.com/watch?v=q8nQTNvCrjE&t=35s
+
+- Austin Buchanan
+https://github.com/AustinLBuchanan
+https://austinlbuchanan.github.io/
+
+- Google OR-Tools
+https://developers.google.com/optimization/routing/tsp?hl=pt-br
+
+- Lin-Kernighan heuristic for solving the TSP
+http://akira.ruc.dk/~keld/research/LKH/
