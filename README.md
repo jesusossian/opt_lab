@@ -1,4 +1,4 @@
-# opt_lab_2024_1
+# opt_lab
 Codes developed in the optimization laboratory
 
 * CPLEX
